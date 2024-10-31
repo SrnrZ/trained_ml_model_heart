@@ -1,0 +1,8 @@
+streamlit
+scikit-learn
+pandas
+numpy
+app.py
+predict_function.py
+trained_model.py
+joblib
