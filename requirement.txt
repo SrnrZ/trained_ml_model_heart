@@ -5,4 +5,6 @@ numpy
 app.py
 predict_function.py
 trained_model.py
-joblib
+columns_to_normalize.pkl
+model.pkl
+normalizer.pkl
